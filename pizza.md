@@ -1,4 +1,4 @@
-#The best pizza recipes
+#The best pizza recipe
 
 ## Ingredients
 * Dough
